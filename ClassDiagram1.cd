@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Address">
+    <Position X="15" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACIAAAAAgAAAAAIgAAAKIAMKAEAAAACAAAAAAAAEAA=</HashCode>
+      <FileName>address.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin">
+    <Position X="4" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAgAgAAAAAAAAAAAQACAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>faculty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Appointment">
+    <Position X="14.75" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAIgAAAAAAAAAAAQAQQAAAEAAIAQAAAAAAAAA=</HashCode>
+      <FileName>appointment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Doctor">
+    <Position X="0.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAggAAAAAAEAABAAAAAAAKAQAAiAAAAAAAAA=</HashCode>
+      <FileName>faculty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Faculty">
+    <Position X="2" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAgAAgAAAIAAAAIIAAAAAAAEggBAAgAEAAAAAAg=</HashCode>
+      <FileName>faculty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login">
+    <Position X="11" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAEQIAAAAIAACAAQAAAAAAA=</HashCode>
+      <FileName>login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patient">
+    <Position X="19.75" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAYAQoAgAAgAAAJAAAAAAAIAEAABAAAAAgAACAA=</HashCode>
+      <FileName>patient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Room">
+    <Position X="8" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAhACAAQAABAAAAgAAAAAAGBAAkAgAAAAAAA=</HashCode>
+      <FileName>room.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
